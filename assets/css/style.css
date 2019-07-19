@@ -653,4 +653,25 @@ on =========*/
         top: 63px;
     right: -527px;
     }
+    #update .box .input-group{
+        width:auto;
+        margin-left: 10px;
+        margin-right: 10px
+    }
+    #update .box .input-group input,
+    #update .box .input-group{
+        height: 69px;
+    }
+    #update .box .input-group input{
+        font-size: 12px;
+        padding-left: 0;
+    }
+    #update .box .input-group .input-group-append{
+        padding:25px;
+        padding-left: 10px;
+      
+    }
+    #update .box .input-group .input-group-append span{
+        font-size: 12px;
+    }
    }
